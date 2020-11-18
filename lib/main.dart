@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intern_test/provider/AppProvider.dart';
-import 'package:intern_test/ui/HomePage.dart';
+import 'package:intern_test/ui/homePage.dart';
 import 'package:provider/provider.dart';
 
 void main() {
